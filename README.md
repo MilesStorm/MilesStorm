@@ -4,8 +4,8 @@ My name is Yousof I'm currently in the middle of my batchelor of computer scienc
 
 ###### I'm not very active on social media but if you're interrested I have the following that i use on occasion:
 
-[![Twitter](https://www.vectorico.com/download/social_media/Twitter-Logo.svg =24x24)](https://twitter.com/YousofMersal)
-[![Github](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg =24x24)](https://github.com/YousofMersal)
+<a href="https://github.com/YousofMersal" rel="some text">![Foo](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg =24x24)</a>
+<a href="https://twitter.com/YousofMersal" rel="some text">![Foo](https://www.vectorico.com/download/social_media/Twitter-Logo.svg =24x24)</a>
 
 I have a website! It's currently very much under construction, and only gets developed when I have the time in between studies and other projects.
 
