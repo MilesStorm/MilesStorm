@@ -4,8 +4,8 @@ My name is Yousof I'm currently in the middle of my batchelor of computer scienc
 
 ###### I'm not very active on social media but if you're interrested I have the following that i use on occasion:
 
-<a href="https://github.com/YousofMersal" rel="some text">![Foo](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg =24x24)</a>
-<a href="https://twitter.com/YousofMersal" rel="some text">![Foo](https://www.vectorico.com/download/social_media/Twitter-Logo.svg =24x24)</a>
+[<img alt="Github" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />][Githublink]
+[<img alt="Twitter" width="26px" src="https://www.vectorico.com/download/social_media/Twitter-Logo.svg" />][twitterLink]
 
 I have a website! It's currently very much under construction, and only gets developed when I have the time in between studies and other projects. 😅
 
@@ -27,3 +27,5 @@ Most of my project is up on the internet i host on some subdomain on that site. 
 <img align="left" alt="Java" width="26px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" />
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
 
+[twitterLink]: https://twitter.com/YousofMersal
+[Githublink]: https://github.com/YousofMersal
