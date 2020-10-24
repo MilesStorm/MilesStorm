@@ -1,13 +1,13 @@
-Hello!
+Hello! 👋
 
-My name is Yousof I'm currently in the middle of my batchelor of computer science at the University of Southern Denmark.
+My name is Yousof I'm currently in the middle of my batchelor of computer science at the University of Southern Denmark. 📚
 
 ###### I'm not very active on social media but if you're interrested I have the following that i use on occasion:
 
 <a href="https://github.com/YousofMersal" rel="some text">![Foo](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg =24x24)</a>
 <a href="https://twitter.com/YousofMersal" rel="some text">![Foo](https://www.vectorico.com/download/social_media/Twitter-Logo.svg =24x24)</a>
 
-I have a website! It's currently very much under construction, and only gets developed when I have the time in between studies and other projects.
+I have a website! It's currently very much under construction, and only gets developed when I have the time in between studies and other projects. 😅
 
 ![Website](https://img.shields.io/website?down_message=down&label=yousoftware.live&style=flat-square&up_color=green&up_message=up&url=https%3A%2F%2Fyousoftware.live) [yousoftware.live](https://yousoftware.live)
 
