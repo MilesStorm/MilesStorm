@@ -13,7 +13,7 @@ I have a website! It's currently very much under construction, and only gets dev
 
 Most of my project is up on the internet i host on some subdomain on that site. E.g. <https://git.yousoftware.live/>
 
-#### Languages and tools i use:
+#### Languages and tools i use in no particular order:
 <img align="left" alt="Rust" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
