@@ -26,7 +26,7 @@ Most of my project is up on the internet i host on some subdomain on that site. 
 <img align="left" alt="CPP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/220px-ISO_C%2B%2B_Logo.svg.png" /> 
 <img align="left" alt="Java" width="26px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" />
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
-<img align="left" alt="Haskell" width="26px" src="https://user-images.githubusercontent.com/29578565/120024144-0e200300-bfef-11eb-943d-363548c7123a.png" />
+<img align="left" alt="Haskell" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngkit.com%2Fbigpic%2Fu2q8r5w7y3t4y3e6%2F&psig=AOvVaw3PUzPF_11DJ78nQnPjd7R8&ust=1622311167167000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCE-Jj67PACFQAAAAAdAAAAABAJ" />
 
 [twitterLink]: https://twitter.com/YousofMersal
 [Githublink]: https://github.com/YousofMersal
