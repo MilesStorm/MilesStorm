@@ -1,6 +1,6 @@
 Hello! 👋
 
-My name is Yousof I'm currently in the middle of my batchelor of computer science at the University of Southern Denmark. 📚
+My name is Yousof I'm currently in the middle of my Masters of computer science at the University of Southern Denmark. 📚
 
 ###### I'm not very active on social media but if you're interrested I have the following that i use on occasion:
 
