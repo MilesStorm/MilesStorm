@@ -8,8 +8,9 @@ My name is Miles I'm currently in the middle of my Masters of Computer Science a
 [<img alt="Twitter" width="26px" src="https://www.vectorico.com/download/social_media/Twitter-Logo.svg" />][twitterLink]
 
 I have a website! It's currently very much under construction, and only gets developed when I have the time in between studies and other projects. 😅
+https://img.shields.io/website?url=https%3A%2F%2Fmilesstorm.com
 
-![Website](https://img.shields.io/website?label=milesstorm.com&url=https%3A%2F%milesstorm.com) [milesstorm.com](https://milesstorm.com/)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fmilesstorm.com) [milesstorm.com](https://milesstorm.com/)
 
 Most of my project is up on the internet i host on some subdomain on that site. E.g. <https://git.milesstorm.com/>
 
